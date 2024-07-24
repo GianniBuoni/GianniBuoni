@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning:
   - ❄️ Nix
   - ⚛️ Typescript/React
+  - #️⃣ Colemak-DH (with homerow mods)
+  - #️⃣ ZMK
 - 😄 Pronouns: he/him
 
 <!---
