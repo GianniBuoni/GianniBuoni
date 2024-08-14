@@ -4,7 +4,7 @@
   - ❄️ Nix
   - ⚛️ Typescript/React
   - #️⃣ Colemak-DH (with homerow mods)
-  - #️⃣ ZMK
+  - #️⃣ ZMK && QMK
 - 😄 Pronouns: he/him
 
 <!---
