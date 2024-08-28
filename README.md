@@ -2,9 +2,10 @@
    
 - 🌱 I’m currently learning:
   - ❄️ Nix
+  - 🚀 Astro
+  - 🔺 NextJs
   - ⚛️ Typescript/React
   - #️⃣ Colemak-DH (with homerow mods)
-  - #️⃣ ZMK && QMK
 - 😄 Pronouns: he/him
 
 <!---
