@@ -9,8 +9,8 @@ I'm into:
   - #️⃣ Colemak-DH (with homerow mods)
 I want to learn:
   - ☸ Kupernetes
-    
-- 😄 Pronouns: he/him
+
+😄 Pronouns: he/him
 
 
 <!---
