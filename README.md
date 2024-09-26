@@ -7,8 +7,9 @@ I'm into:
   - 🔺 NextJs
   - ⚛️ Typescript/React
   - #️⃣ Colemak-DH (with homerow mods)
+
 I want to learn:
-  - ☸ Kupernetes
+  - ☸ Kubernetes
 
 😄 Pronouns: he/him
 
