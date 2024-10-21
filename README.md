@@ -4,11 +4,12 @@ I'm into:
   - ❄️ Nix
   - 🐳 Docker
   - 🚀 Astro
-  - 🔺 NextJs
   - ⚛️ Typescript/React
   - #️⃣ Colemak-DH (with homerow mods)
 
 I want to learn:
+  - 🐹 Go
+  - 🦀 Rust
   - ☸ Kubernetes
 
 😄 Pronouns: he/him
