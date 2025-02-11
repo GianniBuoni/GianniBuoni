@@ -2,13 +2,11 @@
 
 I'm into:
   - ❄️ Nix
+  - 🐹 Go
   - 🐳 Docker
   - 🚀 Astro
-  - ⚛️ Typescript/React
-  - #️⃣ Colemak-DH (with homerow mods)
 
 I want to learn:
-  - 🐹 Go
   - 🦀 Rust
   - ☸ Kubernetes
 
