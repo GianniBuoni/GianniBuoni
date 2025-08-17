@@ -2,12 +2,12 @@
 
 I'm into:
   - ❄️ Nix
+  - 🦀 Rust
   - 🐹 Go
   - 🐳 Docker
   - 🚀 Astro
 
 I want to learn:
-  - 🦀 Rust
   - ☸ Kubernetes
 
 😄 Pronouns: he/him
